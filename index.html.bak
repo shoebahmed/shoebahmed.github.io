@@ -665,7 +665,117 @@
       </section>
 
 
-      
+      <section class="well well2">
+        <div class="container text-center">
+          <h2 class="text-left">
+            Latest projects
+          </h2>
+          <div class="row col-4_mod">
+
+            <div class="col-md-4 col-sm-6 col-xs-6">
+              <a class="thumb" data-fancybox-group="1" href="images/page-1_img9_original.jpg">
+                <img  src="images/page-1_img9.jpg" alt="">
+                <span class="thumb_overlay"></span>
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-6">
+              <a class="thumb" data-fancybox-group="1" href="images/page-1_img10_original.jpg">
+                <img  src="images/page-1_img10.jpg" alt="">
+                <span class="thumb_overlay"></span>
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-6">
+              <a class="thumb" data-fancybox-group="1" href="images/page-1_img11_original.jpg">
+                <img  src="images/page-1_img11.jpg" alt="">
+                <span class="thumb_overlay"></span>
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-6">
+              <a class="thumb" data-fancybox-group="1" href="images/page-1_img12_original.jpg">
+                <img  src="images/page-1_img12.jpg" alt="">
+                <span class="thumb_overlay"></span>
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-6">
+              <a class="thumb" data-fancybox-group="1" href="images/page-1_img13_original.jpg">
+                <img  src="images/page-1_img13.jpg" alt="">
+                <span class="thumb_overlay"></span>
+              </a>
+            </div>
+            <div class="col-md-4 col-sm-6 col-xs-6">
+              <a class="thumb" data-fancybox-group="1" href="images/page-1_img14_original.jpg">
+                <img  src="images/page-1_img14.jpg" alt="">
+                <span class="thumb_overlay"></span>
+              </a>
+            </div>
+
+          </div>
+          <a href="#" class="btn btn-primary"><span>View all >></span></a>
+        </div>
+      </section>
+
+
+      <section class="well well5 bg1 wow fadeIn" data-wow-duration='3s'>
+        <div class="container text-center">
+
+        <ul class="logo-list">
+          <li>
+            <a href="#">
+              <img src="images/page-1_img15.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img16.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img17.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img18.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img19.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img20.png" alt="">
+            </a>
+          </li>
+        </ul>
+
+        <ul class="logo-list logo-list1">
+          <li>
+            <a href="#">
+              <img src="images/page-1_img21.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img22.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img23.png" alt="">
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              <img src="images/page-1_img24.png" alt="">
+            </a>
+          </li>
+        </ul>
+
+        </div>
+      </section>
 
 
     </main>
