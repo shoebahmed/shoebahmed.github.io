@@ -284,7 +284,7 @@
                 pattern: $(this).data('pattern'),
                 color: $(this).data('color')
             });
-
+console.log("URL : "+options.url)
             if (options.url) {
                 new RDParallax(this, options).init();
             } else {
@@ -293,7 +293,9 @@
         });
     };
 })(jQuery);
-
+	
+	RDParallax_autoinit('.parallax');
 $(document).ready(function () {
-    RDParallax_autoinit('.parallax');
+
+   //RDParallax_autoinit('.parallax');
 });

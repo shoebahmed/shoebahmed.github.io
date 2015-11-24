@@ -138,8 +138,8 @@ include('js/jquery.easing.1.3.js');
 (function ($) {
     var o = document.getElementById("google-map");
     if (o) {
-        include('//maps.google.com/maps/api/js?sensor=false');
-        include('js/jquery.rd-google-map.js');
+       /*include('//maps.google.com/maps/api/js?sensor=false');
+        include('js/jquery.rd-google-map.js'); */
 
         $(document).ready(function () {
             var o = $('#google-map');
