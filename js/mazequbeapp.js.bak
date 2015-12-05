@@ -1,4 +1,4 @@
-var module = angular.module("mazeqube", ['ngRoute']);
+var module = angular.module("mazeqube", ['ngRoute','angular-loading-bar']);
 
     module.config(['$routeProvider',
         function($routeProvider) {

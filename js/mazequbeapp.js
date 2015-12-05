@@ -27,7 +27,3 @@ var module = angular.module("mazeqube", ['ngRoute','angular-loading-bar']);
                     redirectTo: '/'
                 });
         }]);
-
-module.config(['cfpLoadingBarProvider', function(cfpLoadingBarProvider) {
-    cfpLoadingBarProvider.latencyThreshold = 50;
-  }])
