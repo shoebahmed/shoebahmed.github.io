@@ -23,6 +23,10 @@ var module = angular.module("mazeqube", ['ngRoute','angular-loading-bar']);
                     templateUrl: 'index-4.html'
 					//,controller: 'RouteController'
                 }).
+                when('/privacy', {
+					templateUrl: 'index-5.html'
+					//,controller: 'RouteController'
+                }).
                 otherwise({
                     redirectTo: '/'
                 });
