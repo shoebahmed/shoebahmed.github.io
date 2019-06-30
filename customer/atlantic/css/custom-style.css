@@ -7,6 +7,13 @@
     margin:  10px;
 }
 
+.stretch-card-custom {
+   padding-left: 0px;
+   display: block;
+ }
+.grid-margin-custom{
+   padding-left: 0px;
+ }
 .table th img, .jsgrid .jsgrid-table th img, .table td img, .jsgrid .jsgrid-table td img {
     width: 60px;
     height: 80px;
@@ -298,6 +305,10 @@
 #msg3{
 	color: red;
 	 margin-left: 25%;
+}
+.form-control-custom{
+    background: #f5f5f5;
+}
 }
 /* --------------------------------- NOTIFICATION ENDS --------------------------------- */
 
