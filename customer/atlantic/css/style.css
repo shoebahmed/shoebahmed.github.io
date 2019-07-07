@@ -22046,7 +22046,7 @@ code {
 }
 
 .btn-outline-dark:hover, .btn-outline-dark:focus, .btn-outline-dark:active {
-  background: linear-gradient(89deg, #ffb74d, #ff9800);
+  background: linear-gradient(to right, #7e57c2, #512da8);
   color: #ffffff;
 }
 
@@ -29563,4 +29563,7 @@ div.tagsinput span.tag a {
 .badge-gradient-shipped{
     background: #2e7d32;
 	color: #ffffff;
+}
+.nav-bar-responsive{
+	width: 20% !important;
 }
