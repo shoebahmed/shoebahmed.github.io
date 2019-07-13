@@ -25100,7 +25100,7 @@ dl li {
 }
 
 .nav-pills-info .nav-link.active {
-  background: linear-gradient(to right, #f48fb1, #7e57c2 99%);
+  background: linear-gradient(to right, #7e57c2, #512da8);
 }
 
 .nav-pills-warning .nav-link {
@@ -29565,5 +29565,5 @@ div.tagsinput span.tag a {
 	color: #ffffff;
 }
 .nav-bar-responsive{
-	width: 20% !important;
+	width: 50% !important;
 }
