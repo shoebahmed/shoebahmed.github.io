@@ -29525,14 +29525,14 @@ div.tagsinput span.tag a {
     margin-left: 70px;
 }
 .card-custom{
-	color: #000;
+	color: #FFF;
     margin-bottom: .75rem;
     /* background-color: #582413; */
     text-transform: capitalize;
     font-family: "ubuntu-medium", sans-serif;
     font-size: 1rem;
     border-radius: 0px 5px 5px 0px;
-    background: #ffb300;
+    background: linear-gradient(to right, #7e57c2, #512da8);
     padding: 10px;
     width: 188px;
     height: 40px;
