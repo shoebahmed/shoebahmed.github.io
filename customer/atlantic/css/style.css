@@ -11156,7 +11156,7 @@ fieldset:disabled a {
 }
 
 .btn-warning:focus, .btn-warning.focus {
-  box-shadow: 0 0 0 0.2rem rgba(254, 215, 19, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(149, 117, 205, 0.5);
 }
 
 .btn-warning.disabled, .btn-warning:disabled {
@@ -11174,7 +11174,7 @@ fieldset:disabled a {
 
 .btn-warning:not(:disabled):not(.disabled):active:focus, .btn-warning:not(:disabled):not(.disabled).active:focus,
 .show > .btn-warning.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.2rem rgba(254, 215, 19, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(149, 117, 205, 0.5);
 }
 
 .btn-danger {
