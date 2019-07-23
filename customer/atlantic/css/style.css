@@ -29468,13 +29468,7 @@ div.tagsinput span.tag a {
 	    -webkit-flex-grow: 1;
 	    flex-grow: 1;
 }
-.content-wrapper-custom-one {
-	    background: #f2edf3;
-	    padding: 5.75rem 2.25rem;
-	    width: 132%;
-	    -webkit-flex-grow: 1;
-	    flex-grow: 1;
-}
+
 .content-wrapper-custom-two {
 	    background: #f2edf3;
 	    padding: 4.75rem 2.25rem;
@@ -29566,4 +29560,21 @@ div.tagsinput span.tag a {
 }
 .nav-bar-responsive{
 	width: 50% !important;
+}
+@media ( min-width : 1920px) {
+	.content-wrapper-custom-one {
+			background: #f2edf3;
+			padding: 5.75rem 2.25rem;
+			width: 132%;
+			-webkit-flex-grow: 1;
+			flex-grow: 1;
+	}
+}
+
+.content-wrapper-custom-one {
+	    background: #f2edf3;
+	    padding: 5.75rem 2.25rem;
+	    width: 120%;
+	    -webkit-flex-grow: 1;
+	    flex-grow: 1;
 }
