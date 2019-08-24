@@ -28336,6 +28336,7 @@ div.tagsinput span.tag {
   font-family: inherit;
   line-height: 1;
   margin-top: 4px;
+  margin-left: 4px;
 }
 
 div.tagsinput span.tag a {
