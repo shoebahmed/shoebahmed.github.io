@@ -29464,13 +29464,7 @@ div.tagsinput span.tag a {
     margin-top: -20px;
     margin-bottom: -10px;
 }
-.content-wrapper-custom {
-	    background: #f2edf3;
-	    padding: 2.75rem 2.25rem;
-	    width: 120%;
-	    -webkit-flex-grow: 1;
-	    flex-grow: 1;
-}
+
 
 .content-wrapper-custom-two {
 	    background: #f2edf3;
@@ -29566,7 +29560,14 @@ div.tagsinput span.tag a {
 }
 
 @media  (min-width : 1024px) and (max-width: 1367px) {
-    .content-wrapper-custom-one {
+    .content-wrapper-custom {
+	    background: #f2edf3;
+	    padding: 2.75rem 2.25rem;
+	    width: 132%;
+	    -webkit-flex-grow: 1;
+	    flex-grow: 1;
+	}
+	.content-wrapper-custom-one {
 			background: #f2edf3;
 			padding: 5.75rem 2.25rem;
 			width: 132%;
@@ -29576,8 +29577,16 @@ div.tagsinput span.tag a {
 }
 
 
+
 @media (min-width : 1367px) and (max-width: 1920px){
-    .content-wrapper-custom-one {
+    .content-wrapper-custom {
+	    background: #f2edf3;
+	    padding: 2.75rem 2.25rem;
+	    width: 120%;
+	    -webkit-flex-grow: 1;
+	    flex-grow: 1;
+	}
+	.content-wrapper-custom-one {
 	    background: #f2edf3;
 	    padding: 5.75rem 2.25rem;
 	    width: 120%;
