@@ -22699,6 +22699,10 @@ code {
   padding: 2.5rem 2.5rem;
 }
 
+.card-height{
+  min-height: 200px;
+}
+
 .card .card-body + .card-body {
   padding-top: 1rem;
 }
