@@ -317,3 +317,9 @@
 	margin-bottom: -1.5rem !important;
 }
 
+.search-right{
+	position: fixed !important;
+	right: 0;
+    top: 37%;
+}
+
