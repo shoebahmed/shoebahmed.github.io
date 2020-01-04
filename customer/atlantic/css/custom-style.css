@@ -318,8 +318,8 @@
 }
 
 .search-right{
-	position: fixed !important;
+	position: fixed;
 	right: 0;
-    top: 37%;
+    top: 25%;
 }
 
