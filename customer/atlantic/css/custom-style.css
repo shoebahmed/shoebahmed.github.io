@@ -195,6 +195,12 @@
 	vertical-align: middle;
 	border: none;
 }
+.img-all-card-v1{
+	width: auto;
+    max-height: 82px;
+    vertical-align: middle;
+    border: none;
+}
 .ui-sortable .card {
 	background: none
 }
