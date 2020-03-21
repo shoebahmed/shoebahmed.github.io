@@ -328,4 +328,9 @@
 	right: 0;
     top: 25%;
 }
-
+.form-check-custom {
+	top:-60px
+}
+.form-check-custom label {
+	color:#101010
+}
