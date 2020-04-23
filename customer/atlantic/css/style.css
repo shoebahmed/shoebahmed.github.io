@@ -29598,3 +29598,7 @@ div.tagsinput span.tag a {
 	    flex-grow: 1;
     }
 }
+
+.form-control select, .form-control input {
+	color: #343A40
+}
