@@ -29599,8 +29599,12 @@ div.tagsinput span.tag a {
     }
 }
 
-.card-body-height{
+.card-body-height-su{
 	    min-height: 390px;
+}
+
+.card-body-height-us{
+	    min-height: 435px;
 }
 
 .table select {
