@@ -29599,6 +29599,10 @@ div.tagsinput span.tag a {
     }
 }
 
+.card-body-height{
+	    min-height: 390px;
+}
+
 .table select {
 	color: #343A40;
 	opacity: 1;
