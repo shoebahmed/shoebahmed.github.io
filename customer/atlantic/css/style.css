@@ -10357,10 +10357,10 @@ pre code {
 }
 
 .form-control::placeholder, .asColorPicker-input::placeholder, .dataTables_wrapper select::placeholder, .jsgrid .jsgrid-table .jsgrid-filter-row input[type=text]::placeholder,
-.jsgrid .jsgrid-table .jsgrid-filter-row select::placeholder, .jsgrid .jsgrid-table .jsgrid-filter-row input[type=number]::placeholder, .select2-container--default .select2-selection--single::placeholder, .select2-container--default .select2-selection--single .select2-search__field::placeholder, .typeahead::placeholder,
+.jsgrid .jsgrid-table .jsgrid-filter-row select::placeholder, .jsgrid .jsgrid-table .jsgrid-filter-row input::placeholder, .select2-container--default .select2-selection--single::placeholder, .select2-container--default .select2-selection--single .select2-search__field::placeholder, .typeahead::placeholder,
 .tt-query::placeholder,
 .tt-hint::placeholder {
-  color: #c9c8c8;
+  color: #343A40;
   opacity: 1;
 }
 
@@ -29599,6 +29599,11 @@ div.tagsinput span.tag a {
     }
 }
 
-.form-control select, .form-control input {
-	color: #343A40
+.table select {
+	color: #343A40;
+	opacity: 1;
+}
+
+.mt-10{
+	margin-top: 10px;
 }
