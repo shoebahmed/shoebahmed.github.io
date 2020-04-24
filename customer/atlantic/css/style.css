@@ -18735,15 +18735,15 @@ input:focus {
 }
 
 .navbar .navbar-menu-wrapper .count-indicator .count-number {
-  min-width: 14px;
-  height: 14px;
-  font-size: .5rem;
-  color: #ffffff;
-  bottom: 16px;
-  right: -5px;
-  line-height: 1;
-  text-align: center;
-  padding-top: 2px;
+    min-width: 20px;
+    height: 20px;
+    font-size: .5rem;
+    color: #ffffff;
+    bottom: 11px;
+    right: -3px;
+    line-height: 1;
+    text-align: center;
+    padding-top: 5px;
 }
 
 .navbar .navbar-menu-wrapper .count-indicator:after {
