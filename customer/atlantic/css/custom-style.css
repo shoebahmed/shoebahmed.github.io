@@ -179,6 +179,9 @@
 #img-planogram {
     max-height: 110.7px;
 }
+.img-planogram-browse-all {
+    max-height: 150.7px !important;
+}
 
 .horizontal-menu.horizontal-menu-full-width .page-body-wrapper {
     padding-top: 0px;
@@ -197,7 +200,7 @@
 }
 .img-all-card-v1{
 	width: auto;
-    max-height: 82px;
+    max-height: 100px;
     vertical-align: middle;
     border: none;
 }
