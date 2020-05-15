@@ -29423,7 +29423,16 @@ div.tagsinput span.tag a {
 }
 
 .logo-img{
-	max-height: 45.7px !important;
+	width: 150px;
+    height: 47px;
+    max-width: 150px;
+    margin-left: 27px;
+	/*max-height: 45.7px !important;*/
+}
+.logo-img-mini{
+	width: 71px;
+    max-width: 100px;
+    margin-left: 27px;
 }
 .navbar.horizontal-full-width-layout-navbar .navbar-top .navbar-menu-wrapper .navbar-nav .nav-item .nav-link {
 	font-family: "ubuntu-medium", sans-serif !important;
