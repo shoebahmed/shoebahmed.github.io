@@ -29438,7 +29438,6 @@ div.tagsinput span.tag a {
 }
 
 .btn-custom{
-	width: 30% !important;
 	/* border: 1px solid #fe7c96; */
 	color: #4e4e4e !important;
 }
@@ -29451,7 +29450,6 @@ div.tagsinput span.tag a {
 }
 
 .btn-custom:visited{
-	width: 30% !important;
 	/* border: 1px solid #fe7c96; */
 	color: #4e4e4e !important;
 }
