@@ -238,7 +238,17 @@
 .modal-card-label{
     padding-top: 12px !important;
 }
+
 @media (max-width:767px) {
+    .btn-rounded {
+		width: 49px !important;
+		height: 29px !important;
+		padding: 0 !important;
+		border-radius: 50% !important;
+	}
+	.modal-card-label {
+		padding-top: 8px !important;
+	}	
 	.content-wrapper {
 		padding:6rem 0rem
 	}
@@ -263,6 +273,24 @@
 		width: 100%;
 	}
 	.display-4by10s .display-side-0 {
-		width:90%
+		width:100%
+	}
+	.display-side {
+		padding:20px;
+	}
+	.display-row {
+		display: -webkit-inline-box;
+	}
+	
+	
+}
+@media (max-width:414px) { 
+	.display-row>+ {
+		margin-left:20px
+	}
+}
+ @media (max-width:375px) { 
+	.display-row>+ {
+		margin-left:8px
 	}
 }
