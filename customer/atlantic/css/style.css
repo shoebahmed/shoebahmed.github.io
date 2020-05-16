@@ -29611,8 +29611,10 @@ div.tagsinput span.tag a {
 	    min-height: 390px;
 }
 
-.card-body-height-us{
-	    min-height: 435px;
+@media (min-width : 1024px){
+	.card-body-height-us{
+			min-height: 435px;
+	}
 }
 
 .table select {
