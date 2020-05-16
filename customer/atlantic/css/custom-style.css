@@ -186,8 +186,10 @@
 #img-planogram {
     max-height: 110.7px;
 }
-.img-planogram-browse-all {
-    max-height: 150.7px !important;
+@media (min-width:768px) { 
+	.img-planogram-browse-all {
+		max-height: 150.7px !important;
+	}
 }
 
 .horizontal-menu.horizontal-menu-full-width .page-body-wrapper {
