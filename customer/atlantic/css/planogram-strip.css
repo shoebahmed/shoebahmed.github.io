@@ -265,7 +265,7 @@
 		width:100%
 	}
 	.img-planogram-browse-all {
-		max-height: 124.7px !important;
+		max-height: 120.7px !important;
 	}
 }
  @media (max-width:479px) { 
@@ -289,7 +289,7 @@
 		margin-left:20px
 	}
 }
- @media (max-width:375px) { 
+@media (max-width:375px) { 
 	.display-row>+ {
 		margin-left:8px
 	}

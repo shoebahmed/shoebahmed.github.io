@@ -29625,3 +29625,14 @@ div.tagsinput span.tag a {
 .mt-10{
 	margin-top: 10px;
 }
+
+@media (max-width:991px){
+	.visible-desktop {
+		display:inline-block
+	}
+}
+@media (max-width:990px){
+	.visible-desktop {
+		display:none
+	}
+}
