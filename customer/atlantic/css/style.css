@@ -22699,8 +22699,16 @@ code {
   padding: 2.5rem 2.5rem;
 }
 
-.card-height{
-  min-height: 308px;
+@media (max-width:1366px) { 
+	.card-height {
+		min-height: 308px;
+	}
+}
+
+@media (max-width:2400px) {
+	.card-height {
+		min-height: 405px;
+	}
 }
 
 .card .card-body + .card-body {
