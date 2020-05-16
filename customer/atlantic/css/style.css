@@ -29440,7 +29440,6 @@ div.tagsinput span.tag a {
 .btn-custom{
 	width: 30% !important;
 	/* border: 1px solid #fe7c96; */
-	padding: 10px;
 	color: #4e4e4e !important;
 }
 .btn-custom:hover{
@@ -29454,7 +29453,6 @@ div.tagsinput span.tag a {
 .btn-custom:visited{
 	width: 30% !important;
 	/* border: 1px solid #fe7c96; */
-	padding: 10px;
 	color: #4e4e4e !important;
 }
 .footer {
