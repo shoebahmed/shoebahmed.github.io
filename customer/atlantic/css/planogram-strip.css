@@ -238,3 +238,31 @@
 .modal-card-label{
     padding-top: 12px !important;
 }
+@media (max-width:767px) {
+	.content-wrapper {
+		padding:6rem 0rem
+	}
+	.card {
+		background:none
+	}
+	.card-body {
+		padding:0.5rem !important
+	}
+	.display-4by10s .display-side-1 {
+		margin-left:0
+	}
+	.btn-product-custom, .btn-product-ln {
+		width:100%
+	}
+	.img-planogram-browse-all {
+		max-height: 124.7px !important;
+	}
+}
+ @media (max-width:479px) { 
+	.display-container-4by10s {
+		width: 100%;
+	}
+	.display-4by10s .display-side-0 {
+		width:90%
+	}
+}
