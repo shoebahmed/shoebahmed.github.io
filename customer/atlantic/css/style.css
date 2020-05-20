@@ -29579,9 +29579,12 @@ div.tagsinput span.tag a {
 	.content-wrapper{
 		padding:0
 	}	
-	.content-wrapper-dashboard, .content-wrapper-custom-two {
+	.content-wrapper-dashboard{
 		padding:4rem 0rem
-	}	
+	}
+	.content-wrapper-custom-two {
+		padding:4rem 0rem
+	}
 }
 
 @media  (min-width : 1024px) and (max-width: 1367px) {
