@@ -29596,7 +29596,7 @@ div.tagsinput span.tag a {
 	}
 	
 	.card-invoice{
-		padding: 0;
+		padding: 0 !important;
 	}
 }
 
