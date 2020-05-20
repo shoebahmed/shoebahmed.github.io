@@ -29594,6 +29594,10 @@ div.tagsinput span.tag a {
 		width:100%;
 		margin:0.75rem 0rem
 	}
+	
+	.card-invoice{
+		padding: 0;
+	}
 }
 
 @media  (min-width : 1024px) and (max-width: 1367px) {
