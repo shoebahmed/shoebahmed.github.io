@@ -29575,6 +29575,15 @@ div.tagsinput span.tag a {
 	width: 50% !important;
 }
 
+@media (max-width:767px){
+	.content-wrapper{
+		padding:0
+	}	
+	.content-wrapper-dashboard, .content-wrapper-custom-two {
+		padding:4rem 0rem
+	}	
+}
+
 @media  (min-width : 1024px) and (max-width: 1367px) {
     .content-wrapper-custom {
 	    background: #f2edf3;
