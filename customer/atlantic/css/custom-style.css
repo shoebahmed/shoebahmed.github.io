@@ -52,6 +52,12 @@
     max-height: 150.7px;
   }
 }
+
+@media (max-width:2400px) {
+	.card-img-top-custom {
+		width:auto
+	}
+}
 /* --------------------------------- ORDER & ORDER-ALLPRODUCT & PRODUCT START --------------------------------- */
 
 
