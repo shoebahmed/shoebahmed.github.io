@@ -284,7 +284,11 @@
 	
 	
 }
+
 @media (max-width:414px) { 
+	#img-planogram {
+    max-height: 124.7px !important;
+}
 	.display-row>+ {
 		margin-left:20px
 	}
@@ -293,4 +297,12 @@
 	.display-row>+ {
 		margin-left:8px
 	}
+	#img-planogram {
+    max-height: 110.7px !important;
+}
+}
+@media (max-width:320px) {
+	#img-planogram{
+		max-height: 92.7px !important;
+	}	
 }
