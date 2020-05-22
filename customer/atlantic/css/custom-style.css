@@ -55,7 +55,8 @@
 
 @media (max-width:2400px) {
 	.card-img-top-custom {
-		width:auto
+		width:55%;
+		height: auto !important;
 	}
 }
 /* --------------------------------- ATLANTIC ORDER & ORDER-ALLPRODUCT & PRODUCT START --------------------------------- */
