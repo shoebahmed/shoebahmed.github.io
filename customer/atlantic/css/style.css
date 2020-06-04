@@ -29559,6 +29559,13 @@ div.tagsinput span.tag a {
  .btn-product-ln{
 	width: 95%;
  }
+ 
+@media  (min-width : 1920px) {
+  .btn-product-ln{
+	width: 93%;
+  }
+}
+
  .btn-planogram-custom{
  	width: 44%;
  }
