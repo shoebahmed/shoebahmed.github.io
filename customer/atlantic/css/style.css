@@ -18744,6 +18744,7 @@ input:focus {
     line-height: 1;
     text-align: center;
     padding-top: 5px;
+	font-weight: 600;
 }
 
 .navbar .navbar-menu-wrapper .count-indicator:after {
