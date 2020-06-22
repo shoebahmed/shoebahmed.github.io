@@ -18735,12 +18735,12 @@ input:focus {
 }
 
 .navbar .navbar-menu-wrapper .count-indicator .count-number {
-    min-width: 20px;
-    height: 20px;
-    font-size: .5rem;
+    min-width: 25px;
+    height: 25px;
+    font-size: .8rem;
     color: #ffffff;
-    bottom: 11px;
-    right: -3px;
+    top: 10px;
+    right: -11px;
     line-height: 1;
     text-align: center;
     padding-top: 5px;
