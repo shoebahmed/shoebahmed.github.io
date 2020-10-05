@@ -14682,7 +14682,7 @@ button.close {
     min-height: calc(100% - (30px * 2));
   }
   .modal-am {
-    max-width: 600px !important;
+    max-width: 700px !important;
     margin: 30px auto;
   }
   .modal-sm {
@@ -29680,4 +29680,8 @@ div.tagsinput span.tag a {
 	.visible-desktop {
 		display:none
 	}
+}
+
+.alert-img-text{
+  width: 125%;	
 }
