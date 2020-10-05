@@ -14681,6 +14681,10 @@ button.close {
   .modal-dialog-centered {
     min-height: calc(100% - (30px * 2));
   }
+  .modal-am {
+    max-width: 600px !important;
+    margin: 30px auto;
+  }
   .modal-sm {
     max-width: 300px;
   }
