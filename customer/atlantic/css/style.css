@@ -29685,3 +29685,7 @@ div.tagsinput span.tag a {
 .alert-img-text{
   width: 110%;	
 }
+
+.alert-img-only {
+    width: 100%;
+}
