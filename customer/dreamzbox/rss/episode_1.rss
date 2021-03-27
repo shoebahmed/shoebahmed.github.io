@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>BALPASHCHIMA</title>
+    <googleplay:owner>shoebahmed@mazeqube.com</googleplay:owner>
+    <googleplay:author>Dr. Gautam Pangu</googleplay:author>
+    <description>Happy Parenting stories - Marathi Audio Book based on short stories</description>
+    <googleplay:image href="https://www.dreamzbox.com/images/133.png"/>
+    <language>en-us</language>
+    <link>https://www.dreamzbox.com/course-view.jsp?courseid=133</link>
+    <item>
+      <title>BALPASHCHIMA</title>
+      <description>Happy Parenting stories - Marathi Audio Book based on short stories</description>
+      <pubDate>Sat, 27 Mar 2021 12:00:00 GMT</pubDate>
+      <enclosure url="https://www.dreamzbox.com/mp3/133/203.mp3?token=c2VFjdXJlZDEzMw=="
+                 type="audio/mpeg" length="34216300"/>
+      <itunes:duration>30:00</itunes:duration>
+      <guid isPermaLink="false">dbpodtop10</guid>
+    </item>
+  </channel>
+</rss>
