@@ -378,4 +378,46 @@ input[type="search"] {
 .mdi-28px.mdi-set, .mdi-28px.mdi:before {
   font-size: 28px;
 }
+
+.hide-button {
+  display: none;
+}
+.parent {
+    overflow: hidden;
+    position: relative;
+    display: block;
+    width: 78px;
+    height: 109px;}
+.parent img {
+    width: 100%;
+    height: 100%;
+ }
+.wp-sold-out-strip {
+    text-align: center;
+    background-color: #fb5607;
+    opacity: 0.9;
+    width: 65px;
+    color: #FFF;
+    font-size: 6.3px;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+    position: absolute;
+    margin-top: -26px;
+    margin-left: 28px;
+    transform: rotate(-45deg);
+}
+.wp-low-stock-strip {
+    text-align: center;
+    background-color: #ffb703;
+    opacity: 0.9;
+    width: 65px;
+    color: #FFF;
+    font-size: 7px;
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+    position: absolute;
+    margin-top: -26px;
+    margin-left: 28px;
+    transform: rotate(-45deg);
+}
 	
